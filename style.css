@@ -1,0 +1,258 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+header
+{
+  width: 100%;
+  height: 100vh;
+}
+.poster{
+    background-size: cover;
+}
+  .top
+{
+    width: 100%;
+    height: 5vh;
+    background-color: royalblue;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 15px;
+    text-align: center;
+}
+
+.text{
+  color: white;
+  font-family: sans-serif;
+  font-size: 15px;
+  text-align: center;
+}
+.btn
+{
+    margin-right: 50px;
+}
+.btn a{
+    text-decoration: none;
+    border: 1px solid black;
+    background-color: white;
+    padding: 8px;
+    font-size: 11px;
+    color: gray;
+    font-family: sans-serif;
+
+}
+.links
+{
+    width: 100%;
+    height: 10vh;
+    display: flex;
+    justify-content: space-around;
+    background-color: whitesmoke;
+  }
+.info
+{
+    padding-top: 20px;
+    background-color: whitesmoke;
+    display: inline;
+}
+.info a
+{
+    color: black;
+    margin: 7px;
+    padding: 13px;
+    text-decoration: none;
+}
+.info a:hover
+{
+  color: white;
+  border-radius: 20px;
+  background-color: royalblue;
+}
+.mym
+{
+    width: 85%;
+    height: 25px;
+    padding: 3px;
+    color: white;
+    background-color: royalblue;
+    margin: 10px;
+    font-family: sans-serif;
+}
+.marq{
+  height: 50px;
+}
+.content
+{
+    width: 100%;
+    height: 100%;
+    background-color: whitesmoke;
+}
+.para
+{
+    margin-left: 250px;
+    padding: 50px;
+    box-sizing: border-box;
+    width: 60%;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    font-size: 16px;
+    
+}
+   .para h1
+{
+    font-size: 40px;
+    color: royalblue;
+    font-family: Cambria;
+    
+}
+.dastarkhuan
+{
+    margin-left: 150px;
+}
+.edu
+{
+    margin-right: 180px;
+}
+.status h1{
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: normal;
+}
+.status
+{
+    width: 100%;
+    height: 50vh;
+    background-color: royalblue;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    padding: 80px;
+    box-sizing: border-box;
+    font-family: cambria;
+    font-size: 14px;
+}
+.doing
+{
+    width: 100%;
+    height: 100vh;
+    background-color: whitesmoke;
+    padding: 40px;
+    box-sizing: border-box;
+}
+.up, .down
+{
+    width: 90%;
+    display: flex;
+    justify-content: center;
+}
+.sadqah, .welfare, .medi, .dast, .roplant, .education
+{
+    width: 350px;
+    height: 180px;
+    background-color: white;
+    box-shadow: 2px 2px 10px grey;
+    padding: 40px;
+    box-sizing: border-box;
+    margin: 20px;
+    font-size: 13px;
+    font-family: Cambria;
+}
+.pronevents
+{
+    width: 100%;
+    height: 50vh;
+    display: flex;
+    padding: 55px;
+    box-sizing: border-box;
+}
+.up2, .down2 
+{
+   display: flex;
+   color:royalblue;
+   font-size: 20px;
+}
+.hepatitis, .housing, .it, .tharparker
+{
+    width: 300px;
+    height: 70px;
+    background-color:rgb(231, 234, 238);
+    padding-top:5px;
+    padding-left:15px;
+    box-sizing: border-box;
+    margin: 10px;
+    font-size: 13px;
+    font-family: Cambria;
+    margin-left: 50px;
+    text-align: left;
+}
+.mqm{
+    padding-top:5px;
+    padding-left:15px;
+    width: 200px;
+    height: 70px;
+    display: flex;   
+    font-size: 16px;
+    box-sizing: border-box;
+    margin-left: 10px;
+    text-align: center;
+    color: gray;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+.mar{
+    height: 150px;
+    width: 350px;
+}
+.gallery
+{
+    width: 100%;
+    height: 90vh;
+    padding: 50px;
+    box-sizing: border-box;
+}
+.last
+{
+    width: 100%;
+    height: 40vh;
+    background-color:  #373641 ;
+    display: flex;
+    padding-top: 80px;
+    padding-bottom:30px;
+    color: whitesmoke;
+}
+.l2{
+    margin-left: 120px;
+    line-height: 30px;
+    font-size: 14px;
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: lighter;
+    color: darkgray;
+}
+.l4{
+   line-height:30px;
+}
+
+
+.last2
+{
+    width: 100%;
+    height: 7vh;
+    background-color: royalblue ;
+    color: white;
+    font-family: sans-serif;
+    font-size: 11px;
+    font-weight: 7px;    
+}
+.end{
+    padding-left: 60px;
+    padding-top: 17px;
+    padding-bottom: 8px;
+    margin-left: 48px;
+  }
+ 
+    
+    
+   
+
